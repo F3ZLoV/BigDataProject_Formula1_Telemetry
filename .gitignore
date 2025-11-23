@@ -1,0 +1,6 @@
+# 대용량 파일 제외 목록
+f1_processed_2023.parquet
+F1_25_TimeTrial_Video.mp4
+
+# 모델 및 데이터 파일도 Git LFS를 사용하지 않는다면 추가하는 것을 권장
+*.parquet
